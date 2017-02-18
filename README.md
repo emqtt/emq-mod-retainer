@@ -1,7 +1,7 @@
 emq_mod_retainer
 ================
 
-Retainer Module
+Retainer Module (v2.0.7)
 
 Configuration
 -------------
